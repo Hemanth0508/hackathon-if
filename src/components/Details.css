@@ -1,0 +1,23 @@
+.details {
+    display: flex;
+    gap: 20px;
+    padding: 8px;
+    /* margin: 6px; */
+  }
+  
+  .detail-item {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    color: rgb(135, 132, 132);
+    border: 0.2px solid rgb(130, 127, 127);
+    border-radius: 10px;
+    padding-right: 8px;
+    margin: auto;
+  }
+  
+  .icon {
+    margin-right: 6px;
+    color: #7b797c;
+    padding: 10px;
+  }
